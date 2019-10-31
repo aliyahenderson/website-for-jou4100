@@ -48,7 +48,7 @@ html, body {
 .top-menu li a:hover {
     border-style: solid;
     border-width: 0px 0px 4px 0px;
-    border-color: red;
+    border-color: lightblue;
 }
 
 .current-page-link {
